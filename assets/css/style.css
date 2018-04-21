@@ -55,6 +55,16 @@ p {
 
 /* HEADER SECTION */
 
+#header {
+  background: url(../img/header.jpg) no-repeat center top;
+  padding-top: 200px;
+  text-align: center;
+  background-attachment: relative;
+  background-position: center center;
+  height: 1000px;
+  width: 100%;
+}
+
 #header h1 {
   font-weight: 900;
   color: #03c9a9;
